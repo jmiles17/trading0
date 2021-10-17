@@ -1,0 +1,5 @@
+backend/data/history/
+backend/data/info/
+backend/data/sheets/
+
+*pycache*
