@@ -4,9 +4,5 @@ Jason Miles
 
 ## Run
 
-/trading/backend$ ./main.py
-
-
-
-
+:~/trading0/backend$ ./main.py
 
