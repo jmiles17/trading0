@@ -86,8 +86,6 @@ class Wallet:
                 print("     total: ${}".format(self.holding[coin] * price))
         print()
     
-    def calc_profit(self):
-        return self.balance - self.deposited
 
 
 
