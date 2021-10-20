@@ -4,7 +4,7 @@ Jason Miles
 
 ## Run
 
-$ ./main.py
+/trading/backend$ ./main.py
 
 
 
