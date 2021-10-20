@@ -1,8 +1,8 @@
-# A Take on Cryptocurrency Trading Bots
+# a take on crypto trading
 
-Jason Miles
+jason miles
 
-## Run
+## run
 
 :~/trading0/backend$ ./main.py
 
